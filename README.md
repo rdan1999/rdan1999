@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá, eu sou o Rafael Dantas! 👋
 
-<!--
-**rdan1999/rdan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional com perfil analítico e comunicativo, atualmente em transição de carreira para a área de Tecnologia com foco em **Análise de Dados**. 
 
-Here are some ideas to get you started:
+Minha jornada é impulsionada pela paixão de usar a lógica e os dados para encontrar soluções e otimizar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🌱 Atualmente estou focado em:**
+
+* 🧠 Aprofundar os fundamentos da Ciência da Computação com o curso **CS50 de Harvard**.
+* 📊 Construir meu primeiro projeto de portfólio em **Análise de Dados**, focado em otimização de estoque e vendas.
+* 🐍 Aprender **Python** e **SQL**, as principais ferramentas do ecossistema de dados.
+
+**📫 Onde me encontrar:**
+
+* **LinkedIn:** [www.linkedin.com/in/rafael-dantas-lacerda]
